@@ -1,0 +1,11 @@
+{
+  "name": "ChessRandom",
+  "subdomain": "ChessRandom",
+  "scripts": {
+    "start": "Index.js"
+  },
+  "version": "0.0.1-14",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
